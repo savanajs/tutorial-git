@@ -1,6 +1,6 @@
 
 
-# Configuração global
+# Configuração globall
 
 $ git config --global user.name "Username"
 
