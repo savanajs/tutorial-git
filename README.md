@@ -3,11 +3,13 @@
 # Configuração global
 
 $ git config --global user.name "Username"
+
 $ git config --global user.email "email@hotmail.com"
 
 # Configuração local
 
 git config user.name "Username"
+
 git config user.email "email@gmail.com"
 
 
